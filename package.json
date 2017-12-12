@@ -1,0 +1,22 @@
+{
+  "name": "vue_application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SF-Felling7/vue_application.git"
+  },
+  "author": "Sean F. Felling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SF-Felling7/vue_application/issues"
+  },
+  "homepage": "https://github.com/SF-Felling7/vue_application#readme",
+  "dependencies": {
+    "vue": "^2.5.9"
+  }
+}
